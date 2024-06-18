@@ -15,7 +15,7 @@ class Yandex:
         return put.status_code
 
 
-token_ya = 'AQAAAAAdgzd3AADLW1UxrNTnnU5YoDB1vOrnZvo'
+token_ya = 'sample-AQAAAAAdgzd3AADLW1UxrNTnnU5YoDB1vOrnZvo'
 backup_ul = Yandex(token_ya)
 
 
